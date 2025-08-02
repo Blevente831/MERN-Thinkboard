@@ -7,6 +7,7 @@ Express.js
 
 Functionalities:
 visualize notes
-creat a new note
+create a new note
 delete note
 update note
+
